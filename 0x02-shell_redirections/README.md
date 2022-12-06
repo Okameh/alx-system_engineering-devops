@@ -1,1 +1,1 @@
-how to hello word
+print hello world
